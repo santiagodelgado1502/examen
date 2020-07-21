@@ -1,0 +1,99 @@
+#idbarra ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#idbarra ul li
+{
+    display: inline-block;
+}
+
+#idbarra ul li a
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px 60px;
+}
+#idbarra 
+{
+    background-color: black;
+}
+#idbarra ul li a:hover
+{
+    background-color: #42b881;
+}
+body
+{
+    background-color: wheat;
+}
+#registro
+{
+    padding:10px;
+    width: 40%;
+    border-spacing: 6px;
+    font-family: serif;
+    font-size: 20px;
+    background: black;
+    margin: auto;
+    margin-top: 0.5%;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    
+}
+input
+{
+    margin: 5%;
+    border-radius: 10px;
+
+}
+label
+{
+    
+}
+#btnregistro
+{
+    
+    border-radius: 10px;
+    padding: 1%;
+    font-style: italic;
+    font-size: large;
+}
+#divconexion
+{
+    margin-left: 85%;
+    background-color: black;
+    color: white;
+    padding-left: 1%;
+}
+#divtiempo
+{
+    background-color: black;
+    margin-left: 85%;
+    color: white;
+    padding-left: 1%;
+}
+h1
+{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+p
+{
+    font-size: 25px;
+    text-align: justify;
+}
+#btnpro
+{
+    border-radius: 10px;
+    padding: 1%;
+    font-style: italic;
+    font-size: large;
+    margin-left: 85%;
+}
